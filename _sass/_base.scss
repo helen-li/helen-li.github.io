@@ -305,11 +305,16 @@ blockquote {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 1.3rem;
+    text-align: left;
+    margin-bottom: 0.5cm;
+    margin-top: -0.15cm;
 
     a {
+      padding-right: 4px;
+      text-decoration: none;
       i::before {
-        color: var(--global-text-color);
+        color: #323232;
         transition-property: all 0.2s ease-in-out;
       }
 
@@ -321,8 +326,30 @@ blockquote {
     }
   }
 
+  .project-icons {
+    font-size: 1.15rem;
+    text-align: left;
+    margin-right: 0.8rem;
+    margin-top: 0.8rem;
+
+    a {
+      text-decoration: none;
+      i::before {
+        color: #323232;
+        transition-property: all 0.2s ease-in-out;
+      }
+
+      &:hover {
+        i::before {
+          color: var(--global-theme-color);
+        }
+      }
+    }
+    
+  }
+
   .contact-note {
-    font-size: 0.8rem;
+    font-size: 0.5rem;
   }
 }
 
