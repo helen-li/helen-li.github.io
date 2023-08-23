@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: 
+description: just getting started to publish with my legal name, Jin Yi Li
 nav: true
 nav_order: 1
 ---

@@ -7,4 +7,4 @@ inline: true
 related_posts: false
 ---
 
-University of Toronto CS Department, Open House Presentation Student Speaker
+University of Toronto CS Department, Open House Student Speaker
