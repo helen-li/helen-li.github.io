@@ -17,8 +17,9 @@ display_categories: [education, empowerment, events]
         <h3 class="category">{{ category }}</h3>
         <div class="table-responsive" {% if include.limit and site.announcements.scrollable and news_size > 3 %}style="max-height: 60vw"{% endif %}>
           <table class="table table-sm table-borderless">
-            {%- assign category_news = site.community | where: "category", category | reverse -%}
-            {% for item in category_news %}
+            {%- assign categorized_news = site.community | where: "category", category -%}
+            {%- assign sorted_news = categorized_news | sort: "order" | reverse %}
+            {% for item in sorted_news %}
               <tr>
                 <th scope="row">{{ item.datestring }}</th>
                 <td>
