@@ -3,69 +3,24 @@ layout: page
 title: r-covid19mentalhealth
 description: scraped reddit to analyze COVID-19 impacts on mental health.
 img: assets/img/r-covid19mentalhealth.png
-importance: 1
+importance: 2
 category: ai/data
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+<div class = "projheader">
+    <div class="links"><a href="/assets/pdf/r-covid19mentalhealth.pdf" class="btn z-depth-0" role="button"> Report </a></div>
+    <div class="links"><a href="https://github.com/helen-li/r-covid19mentalhealth" class="btn z-depth-0" role="button"> <i class="fab fa-github gh-icon"></i> Github</a></div>
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+r-covid19mentalhealth studies the impacts of COVID-19 on mental health via analyzing data from social media. 
 
+I proposed the project idea and led a team of 4 throughout the execution process with task delegation, code cleaning, and report writing. 
+After building the pipeline for scraping data across 9 different subreddit channels related to mental health, I leveraged sentiment analysis and word clouds to better understand the intensity and common trends in emotions in the that dataset. 
+I also jumped in to fill gaps with the linear visualization aspects of the project. 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+{% raw %}```#python```{% endraw %}
+{% raw %}```#nltk```{% endraw %}
+{% raw %}```#wordcloud```{% endraw %}
+{% raw %}```#plotly```{% endraw %}
+{% raw %}```#numpy```{% endraw %}
+{% raw %}```#pandas```{% endraw %}

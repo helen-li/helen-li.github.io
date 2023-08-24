@@ -4,7 +4,7 @@ permalink: /community/
 title: community
 description: organizing, talking, helping
 nav: true
-nav_order: 4
+nav_order: 2
 display_categories: [education, empowerment, events]
 ---
 <!-- add the most recent events to the bottom of _community for each category -->

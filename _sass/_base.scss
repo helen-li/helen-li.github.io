@@ -81,6 +81,33 @@ blockquote {
   text-align: center;
 }
 
+// Button links
+
+.projheader{
+  margin-bottom: 1.0rem;
+  text-align: left;
+}
+
+.links {
+  margin-top: -0.6rem;
+  margin-bottom: 0.5rem;
+  display: inline-block;
+
+  .btn {
+    color: var(--global-text-color);
+    border: 1px solid var(--global-text-color);
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+
+    &:hover {
+        color: var(--global-theme-color);
+        border-color: var(--global-theme-color)!important;
+    }
+  }
+}
+
 // Card
 
 .card {

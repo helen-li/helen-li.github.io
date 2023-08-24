@@ -8,10 +8,10 @@ category: scrapbook
 ---
 
 I took classes as a kid but never got super serious about art. 
-I picked up the pencil again during undergrad and challenged myself to draw something every day... 
+I picked up the pencil again at the start of my undergrad years and challenged myself to draw something every day... 
 {% raw %}```throw```{% endraw %} exceptions for midterms seasons...
 
-Anyways! Here are some of my current favorites! Inspo from the internet, social media, and my brain.
+Anyways! Here are some of my current favorites! Inspo taken from the internet, social media, and my brain.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">

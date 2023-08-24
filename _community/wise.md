@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Toronto Women in Science and Engineering, Executive
-datestring: 2021-Present
+datestring: 2021-Now
 category: empowerment
 order: 5
 inline: false

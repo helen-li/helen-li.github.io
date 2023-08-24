@@ -4,8 +4,8 @@ title: projects
 permalink: /projects/
 description: where my time goes
 nav: true
-nav_order: 2
-display_categories: [software, ai/data, scrapbook]
+nav_order: 1
+display_categories: [ai/data, software, scrapbook]
 horizontal: false
 ---
 
