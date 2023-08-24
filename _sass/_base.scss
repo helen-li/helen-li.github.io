@@ -81,6 +81,33 @@ blockquote {
   text-align: center;
 }
 
+// Button links
+
+.projheader{
+  margin-bottom: 1.0rem;
+  text-align: left;
+}
+
+.links {
+  margin-top: -0.6rem;
+  margin-bottom: 0.5rem;
+  display: inline-block;
+
+  .btn {
+    color: var(--global-text-color);
+    border: 1px solid var(--global-text-color);
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+
+    &:hover {
+        color: var(--global-theme-color);
+        border-color: var(--global-theme-color)!important;
+    }
+  }
+}
+
 // Card
 
 .card {
@@ -88,15 +115,17 @@ blockquote {
 
   img {
     width: 100%;
+    height: 160px;
   }
 
   .card-title {
+    font-size: 20px;
     color: var(--global-text-color);
   }
 
   .card-item {
     width: auto;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 
     .row {
       display: flex;
@@ -305,11 +334,16 @@ blockquote {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 1.3rem;
+    text-align: left;
+    margin-bottom: 0.5cm;
+    margin-top: -0.15cm;
 
     a {
+      padding-right: 4px;
+      text-decoration: none;
       i::before {
-        color: var(--global-text-color);
+        color: #323232;
         transition-property: all 0.2s ease-in-out;
       }
 
@@ -321,8 +355,30 @@ blockquote {
     }
   }
 
+  .project-icons {
+    font-size: 1.15rem;
+    text-align: left;
+    margin-right: 0.8rem;
+    margin-top: 0.8rem;
+
+    a {
+      text-decoration: none;
+      i::before {
+        color: #323232;
+        transition-property: all 0.2s ease-in-out;
+      }
+
+      &:hover {
+        i::before {
+          color: var(--global-theme-color);
+        }
+      }
+    }
+    
+  }
+
   .contact-note {
-    font-size: 0.8rem;
+    font-size: 0.5rem;
   }
 }
 
