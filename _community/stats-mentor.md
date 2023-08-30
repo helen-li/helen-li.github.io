@@ -1,10 +1,11 @@
 ---
-layout: post
-datestring: 2023-2024
+layout: page
+title: University of Toronto Statistics Department, Peer Mentor
+datestring: 2023-Now
 category: education
-order: 2
-inline: true
+order: 3
+inline: false
 related_posts: false
 ---
 
-University of Toronto Statistics Department, Peer Mentor
+As one of 20 chosen students in the department, I mentored over 800 first-year students via hosting 1-1 appointments and organizing monthly events.
