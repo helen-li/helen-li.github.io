@@ -3,7 +3,7 @@ layout: page
 title: Microsoft x GDSC Women in Tech Conference, Workshop Host
 datestring: 2023-03-26
 category: events
-order: 3
+order: 2
 inline: false
 related_posts: false
 ---
