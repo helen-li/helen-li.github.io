@@ -15,7 +15,7 @@ category: ai/data
 r-covid19mentalhealth studies the impacts of COVID-19 on mental health via analyzing data from social media. 
 
 I proposed the project idea and led a team of 4 throughout the execution process with task delegation, code cleaning, and report writing. 
-After building the pipeline for scraping data across 9 different subreddit channels related to mental health, I leveraged sentiment analysis and word clouds to better understand the intensity and common trends in emotions in the that dataset. 
+After building the pipeline for scraping data across 9 different subreddit channels related to mental health, I leveraged sentiment analysis and word clouds to better understand the intensity and common trends in emotions in the dataset. 
 I also jumped in to fill gaps with the linear visualization aspects of the project. 
 
 {% raw %}```#python```{% endraw %}

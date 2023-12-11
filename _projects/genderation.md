@@ -29,10 +29,10 @@ We narrowed the project scope to answer the following 3 focus questions, and we 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/genderation/genderation-demo-2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/genderation/genderation-demo-2.jpg" title="ai4good lab booth" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/genderation/genderation-demo-3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/genderation/genderation-demo-3.jpg" title="ai4good lab presentation" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -46,20 +46,20 @@ T2I models not only reflect but also seem to amplify gender biases in the occupa
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/genderation/genderation-q2-1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/genderation/genderation-q2-1.png" title="employment bias" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     Figure 1. Percentage (%) of employed persons who identify as female in the real world versus SD-generated profession images that are feminine-presenting.
 </div>
 
-More interestingly, there seems bias against androgynous presentations of individuals.
+More interestingly, there seems to be bias against androgynous presentations of individuals.
 For instance, representation of androgynous individuals jumps from 0% to 18% when Stable Diffusion was prompted to generate images of rich versus poor individuals, as shown below in <span style="color: var(--global-theme-color);">Figure 2</span>. 
 We see similar jumps in female proportions when comparing the generated outputs of assertive versus emotional individuals. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 d-flex justify-content-center">
-        {% include figure.html path="assets/img/genderation/genderation-q2-2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/genderation/genderation-q2-2.png" title="adjective bias" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -75,13 +75,13 @@ Then, we calculated an image-text similarity score for each generated image, fed
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/genderation/genderation-q3-1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/genderation/genderation-q3-1.png" title="nonbinary doctor generated spectrum" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             Figure 3. Distribution of gender spectrum labels for output images from the prompt <span style="color: var(--global-theme-color);">"photo portrait of a nonbinary doctor"</span>.
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/genderation/genderation-q3-2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/genderation/genderation-q3-2.png" title="nonbinary programmer generated spectrum" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             Figure 4. Distribution of gender spectrum labels for output images from the prompt <span style="color: var(--global-theme-color);">"photo portrait of a nonbinary programmer"</span>.
         </div>
@@ -102,7 +102,7 @@ Together with another teammate, I also implemented and integrated bias quantifie
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/genderation/genderation-demo-1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/genderation/genderation-demo-1.jpg" title="ai4good lab group photo" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

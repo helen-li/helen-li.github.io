@@ -20,7 +20,7 @@ As the Web Development Director, I developed and owned the <a href="https://wise
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/wise/conference-23.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/wise/conference-23.jpg" title="wise nc 2023" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -41,7 +41,7 @@ As the First-Year Associate, I rotated around different subteams and to host the
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/wise/conference-22.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/wise/conference-22.png" title="wise nc 2022" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
