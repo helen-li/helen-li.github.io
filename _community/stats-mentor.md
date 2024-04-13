@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University of Toronto Statistics Department, Peer Mentor
-datestring: 2023-Now
+datestring: 2023-2024
 category: education
 order: 3
 inline: false
