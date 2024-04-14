@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Talkology
-description: NLP-powered web app for cracking the behavioral interview.
+description: NLP-powered web app to crack the behavioral interview.
 img: assets/img/talkology.png
 importance: 1
 category: software
