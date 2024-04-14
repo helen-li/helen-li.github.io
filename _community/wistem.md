@@ -26,7 +26,7 @@ Check out this keynote on <a href="https://vimeo.com/545682220">Robotics and Eth
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/wistem/wistem-team.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/wistem/wistem-team.jpg" title="wistem team photo" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -46,10 +46,10 @@ As the Marketing Director, I organized the following efforts.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/wistem/stem-buddies-1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/wistem/stem-buddies-1.jpg" title="wistem stem buddies 2017" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/wistem/stem-buddies-2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/wistem/stem-buddies-2.jpg" title="wistem stem buddies 2018" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

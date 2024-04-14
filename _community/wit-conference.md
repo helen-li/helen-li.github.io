@@ -12,10 +12,10 @@ In collaboration with the <a href="https://developer.microsoft.com/en-us/reactor
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/events/wit-1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/events/wit-1.jpg" title="wit workshop opening" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/events/wit-2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/events/wit-2.jpg" title="wit workshop closing" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
