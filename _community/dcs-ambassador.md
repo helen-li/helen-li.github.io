@@ -13,7 +13,7 @@ related_posts: false
 As one of 6 chosent student ambassadors, I represented the department and led initiatives specifically for career development. 
 * Started and managed the department's first peer mentoring program to connect upper-year students with first- and second-years via informal coffee chats
 * Conducted weekly mock technical interviews virtually over Zoom
-* Hosted resume reviews and Q&A sessions on an on demand basis
+* Hosted resume reviews and Q&A sessions on an on-demand basis
 * Updated the department's job board with internship and new grad opportunities every week
 * Presented at outreach events like Fall Campus Day 2023 and Program Exploration Day 2024
 * Helped prepare for departmental events like Alumni-Student Mentorship Orientation and Convocation
