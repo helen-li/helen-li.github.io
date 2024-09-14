@@ -8,9 +8,13 @@ inline: false
 related_posts: false
 ---
 
+#### 2024-2025
+
+I returned to the team again as the Conference Webmaster!
+
 #### 2023-2024
 
-As the Conference Webmaster, I developed and owned the <a href="https://conference.wiseuoft.org/">WISE National Conference website</a>.
+As the Conference Webmaster, I developed and owned the <a href="https://conference.wise.skule.ca/">WISE National Conference website</a>.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
@@ -28,7 +32,7 @@ As the Conference Webmaster, I developed and owned the <a href="https://conferen
 
 #### 2022-2023
 
-As the Web Development Director, I developed and owned the <a href="https://wiseuoft.org/">WISE website</a>.
+As the Web Development Director, I developed and owned the <a href="https://wise.skule.ca/">WISE website</a>.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
