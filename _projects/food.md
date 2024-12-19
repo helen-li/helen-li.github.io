@@ -21,4 +21,4 @@ category: scrapbook
 # </div>
 ---
 
-under construction... stay tuned for some authentic foodie recommendations...
+under construction... in the meantime, check for foodie updates on Beli [@helenlii](https://beliapp.co/app/helenlii)
