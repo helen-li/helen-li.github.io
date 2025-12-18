@@ -1,20 +1,16 @@
 ---
 layout: page
 title: University of Toronto Women in Science and Engineering, Executive
-datestring: 2021-Now
+datestring: 2021-2025
 category: empowerment
 order: 5
 inline: false
 related_posts: false
 ---
 
-#### 2024-2025
+#### 2023-2025
 
-I returned to the team again as the Conference Webmaster!
-
-#### 2023-2024
-
-As the Conference Webmaster, I developed and owned the <a href="https://conference.wise.skule.ca/">WISE National Conference website</a>.
+As the Conference Webmaster, I developed and owned the <a href="https://conference.wise.skule.ca/">WISE National Conference website</a> for two years, and our website engaged with over 5k users annually. 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
