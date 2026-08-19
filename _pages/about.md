@@ -27,3 +27,5 @@ Check out my [graduation spotlight](https://web.cs.toronto.edu/news-events/news/
 My research interest in human-centered artificial intelligence falls at the intersection of HCI and AI. In the past, I've worked on tackling gender bias in generative text-to-image models, crafting design principles for context-aware smart assistants, and leveraging ML to model menstrual health.
 
 I lead projects for social good and advocate for gender diversity in tech. 
+
+I have also enjoyed mentoring students and early-career professionals on graduate school applications, tech recruiting, and career decisions. If you’re exploring a next step and would like to connect, feel free to [reach out](mailto:hallenljy@gmail.com?subject=Reaching%20out%20from%20your%20website)!
